@@ -103,19 +103,19 @@ PetImages/
 
 ###### 🖼 Sample Images
 
-!\[Sample Images](sample\_images.png)
+![Sample Images](sample_images.png)
 
 
 
 ###### 📊 Confusion Matrix
 
-!\[Confusion Matrix](confusion\_matrix.png)
+![Confusion Matrix](confusion_matrix.png)
 
 
 
 ###### 🔍 Sample Predictions
 
-!\[Sample Predictions](sample\_predictions.png)
+![Sample Predictions](sample_predictions.png)
 
 
 
@@ -148,7 +148,7 @@ The exact accuracy may vary slightly because images are randomly selected from t
 * svm\_cat\_dog\_model.pkl
 * sample\_images.png
 * confusion\_matrix.png
-* predictions.png
+* sample\_predictions.png
 
 
 
